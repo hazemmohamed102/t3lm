@@ -1,0 +1,10 @@
+/* liScroll styles */
+
+.tickercontainer{width: 100%;height: 32px;margin:0;padding:0;ove;overflow:hidden;ding-top: 12px;background-color: #3a3a3a6e;border-radius: 10px;box-shadow: 0px 4px #b3978733, 0em 0 1.4em #b7b7b7;}
+.tickercontainer .mask{left: 10px;overflow:hidden;position:relative;top:0;widt;width:100%;ht: 20px;height: 20px;low:hidden;margin-top: 8px;}
+ul.newsticker{position:relative; left:750px; font:bold 10px Verdana; list-style-type:none; margin:0; padding:0}
+ul.newsticker li{float:left; margin:0; padding:0}
+ul.newsticker a{white-space:nowrap;padding:0;color:#fff;margin:0 50px 0 0;}
+ul.newsticker a:hover{text-decoration:underline}
+ul.newsticker span{margin:0 10px 0 0}
+ul.newsticker a > img{height:20px; margin-right:5px; width:25px}
